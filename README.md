@@ -29,4 +29,4 @@ I enjoy building and programming small robots in my free time, exploring the fas
 ## 📫 How to reach me:
 Feel free to connect with me on Linkedin.
 
-![]https://github.com/rase6/rase6/blob/main/Dancing%20Robot%20Animated%20GIF.gif
+![](https://github.com/rase6/rase6/blob/main/Dancing%20Robot%20Animated%20GIF.gif)
