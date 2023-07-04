@@ -28,7 +28,12 @@ Developing an assisitive robot for older adults.
 ## ⚡ Fun fact:
 I enjoy building and programming small robots in my free time, exploring the fascinating world of robotics beyond academia.
 
-## 📫 How to reach me:
-Feel free to connect with me on Linkedin.
+## Collaboration and Contributions:
+
+🤝 I embrace a collaborative mindset and actively contribute to open-source projects.
+
+🌟 I'm enthusiastic about connecting and collaborating with fellow developers.
+
+Feel free to explore my projects and repositories. Don't hesitate to reach out if you have any questions or if you'd like to collaborate. Let's embark on an exciting coding journey together! 
 
 
