@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/rase6/rase6/blob/main/Dancing%20Robot%20Animated%20GIF.gif)
+![](https://github.com/rase6/rase6/blob/main/YseV.gif)
 
 🤖 I am a Robotics Engineering Student
 🎯 Passionate about expanding robotics and artificial intelligence knowledge to solve real-world problems in the field.
