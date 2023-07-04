@@ -15,6 +15,8 @@ Developing an assisitive robot for older adults.
 
 💻 Programming Languages: Proficient in Python, with experience in C++, MATLAB, and ROS (Robot Operating System).
 
+🔌 Experienced with Arduino and Raspberry Pi microcontrollers
+
 🖥️ Software Development: object-oriented programming, and version control using Git.
 
 🛠️ Problem Solving: Analytical mindset and ability to tackle complex challenges.
