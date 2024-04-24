@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🤖 I am a Robotics Engineering Student
+🤖 I am a Robotics Engineer
 🎯 Passionate about expanding robotics and artificial intelligence knowledge to solve real-world problems in the field.
 🌍 Seeking opportunities to expand knowledge and collaborate with like-minded individuals 👯                                 
                                                                                              ![](https://github.com/rase6/rase6/blob/main/ezgif.com-crop.gif)                                                              
