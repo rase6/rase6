@@ -9,11 +9,7 @@ Developing an assisitive robot for older adults.
 
 ## Skills:
 
-🤖 Robotics: High-level multi-robot control architectures, kinematics, dynamics, perception, motion planning, and localization.
-
-🧠 Artificial Intelligence: Machine learning, computer vision, natural language processing, and reinforcement learning.
-
-💻 Programming Languages: Proficient in Python, with experience in C++, MATLAB, and ROS (Robot Operating System).
+💻 Programming Languages: Proficient in Python, with experience in C++, MATLAB
 
 🔌 Experienced with Arduino and Raspberry Pi microcontrollers
 
